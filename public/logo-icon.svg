@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Layer 1 (back): Blue top arm -->
+  <path d="M32 4L4 24L16 24L32 12Z" fill="#00A3E0"/>
+  <!-- Layer 2 (back): Dark bottom arm -->
+  <path d="M44 24L16 44L16 36L32 24Z" fill="#2B2B2B"/>
+  <!-- Layer 3 (front): Dark top arm — crosses over blue -->
+  <path d="M16 4L44 24L32 24L16 12Z" fill="#2B2B2B"/>
+  <!-- Layer 4 (front): Blue bottom arm — crosses over dark -->
+  <path d="M4 24L32 44L32 36L16 24Z" fill="#00A3E0"/>
+</svg>
